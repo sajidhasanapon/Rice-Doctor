@@ -1,0 +1,1 @@
+learning rate		dropout rate		dense layer size		training_accuracy		validation accuracy
